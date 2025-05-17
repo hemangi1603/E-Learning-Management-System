@@ -34,7 +34,7 @@ session_start();
     <h3 class="mb-5">Welcome to BYJU'S Payment Page</h3>
 
 
-    <form method="post" action="./paymentdone.php">
+    <form method="post" action="./payment.php">
 
  
     </script>
